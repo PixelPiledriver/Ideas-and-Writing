@@ -3031,7 +3031,7 @@ BITCH
 
 a powerful laser shoots from the mans hand
 it pierces the crystal wall and splits into an array of lasers
-they strike the demon and slowly he floats in the air
+they strike the demon one after another and slowly he floats in the air
 
 demon
 --> screamin in pain
@@ -3056,6 +3056,11 @@ man
 --> annoyed
 and clean the house up.
 it's a total mess in there.
+
+woman
+--> tears of joy
+O....
+OK....
 
 They walk to their door, open it, and go inside.
 As the door shuts the man exclaims
