@@ -2905,7 +2905,7 @@ but her mood changes
 woman
 --> angry
 how could you do that!?!?
-you jumped to your death over a little argument
+you jumped to your death over a little argument!!??!
 
 man
 --> annoyed
@@ -2916,7 +2916,9 @@ I.....
 I slipped on...
 I slipped on some of your chapstick!
 I told you to not make such a mess.
-That's what we were arguing about
+.....
+HEY!
+That's what we were arguing about!
 
 woman
 --> she makes a blank face and shrugs as if its not her fault
